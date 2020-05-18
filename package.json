@@ -1,0 +1,14 @@
+{
+  "name": "ig-story",
+  "version": "1.0.0",
+  "description": "Generates Stories For Instagram With Stickers",
+  "main": "index.js",
+  "author": "javid.izadfar@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.1"
+  }
+}
